@@ -1,11 +1,16 @@
 {
-    "ProbSeeingReview": 0.3,
-    "ProbSeeingPositiveReview": 0.2,
+    "Prob Seeing Review": 0.3,
 
-    "ProbStayingSameReception": 0.8,
-    "ProbHateWatching": 0.8,
+    "Initial Number Reviews": 100,
+    "Initial Score": 0.4,
+    "Score Max": 5,
+
+    "Prob Staying Same Reception": 0.8,
+    "Prob Hate Watching": 0.8,
+
+    "Review Rate": 0.3,
     
-    "ProbIndifference": 0.05,
+    "Prob Indifference": 0.05,
 
-    "InitialPopulation": 1000
+    "Initial Population": 1000
 }
