@@ -1,0 +1,11 @@
+{
+    "ProbSeeingReview": 0.3,
+    "ProbSeeingPositiveReview": 0.2,
+
+    "ProbStayingSameReception": 0.8,
+    "ProbHateWatching": 0.8,
+    
+    "ProbIndifference": 0.05,
+
+    "InitialPopulation": 1000
+}
