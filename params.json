@@ -1,12 +1,11 @@
 {
     "Prob Seeing Review": 0.3,
 
-    "Initial Number Reviews": 100,
-    "Initial Score": 0.4,
-    "Score Max": 5,
+    "Initial Number Reviews": 35,
+    "Initial Score": 7,
+    "Score Max": 100,
 
-    "Prob Staying Same Reception": 0.8,
-    "Prob Hate Watching": 0.8,
+    "Prob Hate Watching": 0.3,
 
     "Review Rate": 0.3,
     
