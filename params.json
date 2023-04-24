@@ -1,15 +1,25 @@
 {
-    "Prob Seeing Review": 0.3,
+    "Prob Seeing Review": 0.2,
 
     "Initial Number Reviews": 35,
-    "Initial Score": 7,
-    "Score Max": 100,
+    "Initial Score": 2.88,
+    "Score Max": 5,
 
-    "Prob Hate Watching": 0.3,
+    "Prob Hate Watching": 0.2,
 
-    "Review Rate": 0.3,
-    
-    "Prob Indifference": 0.05,
+    "Review Rate": 0.00005503175002855629,
 
-    "Initial Population": 1000
+    "Prob Indifference": 0.70,
+
+    "Popularity": 32.070725,
+
+    "Initial Population": 7000000000,
+
+    "Prob PP to NP": 0.7,
+    "Prob PP to HW": 0.6,
+    "Prob NP to PP": 0.4,
+    "Prob NP to HW": 0.2,
+    "Prob HW to PP": 0.5,
+    "Prob HW to NP": 0,
+    "Prob HW to HW": 0.9
 }
